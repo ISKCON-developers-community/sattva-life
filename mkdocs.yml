@@ -1,7 +1,6 @@
 site_name: База знаний о простой жизни и возвышенном мышлении
 docs_dir: src/docs
 site_dir: docs
-locale: ru
 repo_url: https://github.com/ISKCON-developers-community/sattva-life
 site_description: База знаний о простой жизни и возвыщенном мышлении
 site_author: Atmayoni das
