@@ -6,13 +6,14 @@ site_description: База знаний о простой жизни и возв
 site_author: Atmayoni das
 theme:
   name: material
+  language: ru
   features:
     - navigation.indexes
 plugins:
   - search
 markdown_extensions:
   - toc:
-      permalink: "#"
+      permalink: true
 nav:
   - Введение: index.md
   - Памятка: help.md
