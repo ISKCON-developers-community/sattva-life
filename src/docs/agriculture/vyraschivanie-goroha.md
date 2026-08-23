@@ -2,10 +2,6 @@
 
 `Михаил Чибисов` 
 
-**[[⬅️ К началу](](../index.md)**
-
-**[⬅️ В раздел сельское хозяйство](./index.md)**
-
 ![Горох](./img/goroh1.jpg) 
 
 
@@ -38,6 +34,3 @@
 <a href="../../docs/Tekhnologia_Vyraschivania_Gorokha.docx">Технология выращивания гороха</a>
 
 <a href="../../docs/Tekhnologia_Proizvodstva_Gorokha.pdf">Технология производства гороха</a>
-
-
-**[⬆ Наверх](#выращивание-гороха)**
