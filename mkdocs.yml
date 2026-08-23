@@ -1,6 +1,6 @@
 site_name: База знаний о простой жизни и возвышенном мышлении
 docs_dir: src/docs
-site_dir: docs
+site_dir: site
 repo_url: https://github.com/ISKCON-developers-community/sattva-life
 site_description: База знаний о простой жизни и возвыщенном мышлении
 site_author: Atmayoni das
@@ -27,6 +27,7 @@ nav:
       - cows/index.md
       - cows/ahimsa-milk-gbc-resolution-2022.md
       - cows/broshura-o-korovah.md
+      - cows/zachem-byku-koltso-v-nosu.md
     - Община:
       - community/index.md
       - community/community-64-bsst.md
