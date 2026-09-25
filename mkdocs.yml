@@ -1,8 +1,8 @@
-site_name: База знаний о простой жизни и возвышенном мышлении
+site_name: Sattvalife - простая жизнь и возвышенное мышление
 docs_dir: src/docs
 site_dir: site
 repo_url: https://github.com/ISKCON-developers-community/sattva-life
-site_description: База знаний о простой жизни и возвыщенном мышлении
+site_description: База знаний о простой жизни и возвыщенном мышлении. Бхакти-йога, вайшнавские общины
 site_author: Atmayoni das
 theme:
   name: material
